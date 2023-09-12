@@ -22,15 +22,15 @@ A seguir a lista de diagramas da aplicação:
 ## Stack do projeto
 O projeto será construído utilizando as seguintes ferramentas: <br>
 
-**Tecnologias de Desenvolvimento Web**
+**Desenvolvimento Web**
 - [VueJS](https://vuejs.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 
-**Tecnologias de Contêineres e Implantação**
+**Contêineres e Implantação**
 - [Docker](https://www.docker.com/)
 - [AWS Lambda](https://docs.aws.amazon.com/lambda/) ou [AWS SQS](https://docs.aws.amazon.com/sqs/)
 
-**Ferramentas de Desenvolvimento e Monitoramento**
+**Desenvolvimento e Monitoramento**
 - [New Relic](https://newrelic.com/)
 - [Sonar](https://www.sonarsource.com/products/sonarqube/)
 
@@ -38,3 +38,6 @@ O projeto será construído utilizando as seguintes ferramentas: <br>
 - [YOLO](https://github.com/ultralytics/ultralytics)
 - [InstaLoader](https://github.com/instaloader/instaloader)
 
+**Bibliotecas para testes**
+- [Pytest](https://docs.pytest.org/en/7.4.x/)
+- [Jest](https://jestjs.io/)
