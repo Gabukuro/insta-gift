@@ -10,18 +10,16 @@ A aplicação tem como objetivo gerar uma recomendação de presente para um ind
 ## Solução proposta
 A aplicação tem como objetivo simplificar e aprimorar a experiência de escolha de presentes. Ela irá coletar dados públicos disponíveis no perfil do instagram para compreender melhor a personalidade e os gostos da pessoa em questão. Ao analisar estes dados, a aplicação será capaz de identificar itens específicos disponíveis no nosso catálogo de produtos que podem ser de interesse da pessoa.
 
+## Roadmap do projeto
+O roadmap do projeto está detalhado [aqui](https://github.com/users/Gabukuro/projects/3/views/3).
+
 ## Diagramas
 A seguir a lista de diagramas da aplicação:
 - [Diagrama de casos de uso](./assets/user%20cases%20diagram.drawio.png)
 - [Diagrama de sequência](./assets/sequence%20diagram.drawio.png)
 - [Modelagem de dados](./assets/data%20model%20diagram.drawio.png)
 
-## Roadmap do projeto
-
-O roadmap do projeto está detalhado [aqui](https://github.com/users/Gabukuro/projects/3/views/3).
-
 ## Stack do projeto
-
 O projeto será construído utilizando as seguintes ferramentas: <br>
 
 **Tecnologias de Desenvolvimento Web**
