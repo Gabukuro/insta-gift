@@ -32,6 +32,6 @@ A seguir a lista de diagramas da aplicação:
 
 ### Outros links
 - [Link do Sonar (Produção)](http://3.140.235.13:9000/)
-- [Link do Betterstack](LINK_DO_SONAR_DA_API_EM_PROD)
+- [Link do Betterstack](https://uptime.betterstack.com/team/179873/monitors/1588685)
 
 ### Como usar a aplicação
