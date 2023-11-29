@@ -5,10 +5,10 @@
 Presentear é um ato que vai além do materialismo, sendo uma maneira de expressar sentimentos, apreciação e conexões emocionais. No entanto, encontrar o presente ideal muitas vezes é uma jornada cheia de incertezas. As preferências individuais estão constantemente mudando e podem ser influenciadas por inúmeras variáveis, como hobbies, interesses, histórico de compras e até mesmo as <strong>interações nas redes sociais </strong>.
 
 ## Objetivo
-A aplicação tem como objetivo gerar uma recomendação de presente para um indivíduo com base nas fotos públicadas em seu perfil no instagram.
+A aplicação tem como objetivo gerar uma recomendação de presente para um indivíduo com base nas fotos publicadas em seu perfil no Instagram.
 
 ## Solução proposta
-A aplicação tem como objetivo simplificar e aprimorar a experiência de escolha de presentes. Ela irá coletar dados públicos disponíveis no perfil do instagram para compreender melhor a personalidade e os gostos da pessoa em questão. Ao analisar estes dados, a aplicação será capaz de identificar itens específicos disponíveis no nosso catálogo de produtos que podem ser de interesse da pessoa.
+A aplicação tem como objetivo simplificar e aprimorar a experiência de escolha de presentes. Ela irá coletar dados públicos disponíveis no perfil do Instagram para compreender melhor a personalidade e os gostos da pessoa em questão. Ao analisar estes dados, a aplicação será capaz de identificar itens específicos disponíveis no nosso catálogo de produtos que podem ser de interesse da pessoa.
 
 ## Roadmap do projeto
 O roadmap do projeto está detalhado [aqui](https://github.com/users/Gabukuro/projects/3/views/3).
@@ -19,25 +19,10 @@ A seguir a lista de diagramas da aplicação:
 - [Diagrama de sequência](./assets/sequence%20diagram.drawio.png)
 - [Modelagem de dados](./assets/data%20model%20diagram.drawio.png)
 
-## Stack do projeto
-O projeto será construído utilizando as seguintes ferramentas: <br>
+## Diretórios do projeto
 
-**Desenvolvimento Web**
-- [VueJS](https://vuejs.org/)
-- [Flask](https://flask.palletsprojects.com/en/2.3.x/)
-
-**Contêineres e Implantação**
-- [Docker](https://www.docker.com/)
-- [AWS Lambda](https://docs.aws.amazon.com/lambda/) ou [AWS SQS](https://docs.aws.amazon.com/sqs/)
-
-**Desenvolvimento e Monitoramento**
-- [New Relic](https://newrelic.com/)
-- [Sonar](https://www.sonarsource.com/products/sonarqube/)
-
-**Bibliotecas/Projetos de Código Aberto**
-- [YOLO](https://github.com/ultralytics/ultralytics)
-- [InstaLoader](https://github.com/instaloader/instaloader)
-
-**Bibliotecas para testes**
-- [Pytest](https://docs.pytest.org/en/7.4.x/)
-- [Jest](https://jestjs.io/)
+### Repositórios Relacionados
+- [API da Aplicação](https://github.com/Gabukuro/insta-gift-api)
+- [Frontend em Vue.js da Aplicação](https://github.com/Gabukuro/insta-gift-app)
+- [Localstack para Desenvolvimento Local](https://github.com/Gabukuro/insta-gift-localstack)
+- [Object Detection Service](https://github.com/Gabukuro/object-detection-service)
