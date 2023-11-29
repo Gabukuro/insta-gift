@@ -16,8 +16,11 @@ O roadmap do projeto está detalhado [aqui](https://github.com/users/Gabukuro/pr
 ## Diagramas
 A seguir a lista de diagramas da aplicação:
 - [Diagrama de casos de uso](./assets/user%20cases%20diagram.drawio.png)
-- [Diagrama de sequência](./assets/sequence%20diagram.drawio.png)
-- [Modelagem de dados](./assets/data%20model%20diagram.drawio.png)
+- [Diagrama de sequência](./assets/sequence%20diagram.drawio.png) (Desatualizado)
+- [Diagrama de sequência](./assets/insta-gift%20sequence%20diagram-Page-5.drawio.png) (Atualizado)
+- [Diagrama de sequência pooling do frontend](./assets/insta-gift%20sequence%20diagram-Page-4.drawio.png) 
+- [Modelagem de dados](./assets/data%20model%20diagram.drawio.png) (Desatualizado)
+- [Modelagem de dados](./assets/insta-gift%20sequence%20diagram-data%20model%20diagram.drawio%20(1).png) (Atualizado)
 
 ## Diretórios do projeto
 
