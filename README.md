@@ -36,7 +36,7 @@ A seguir a lista de diagramas da aplicação:
 - [Link do Betterstack](https://uptime.betterstack.com/team/179873/monitors/1588685)
 
 ### Observações
-Como a api não possui certificado ssl é possível que ao abrir a aplicação no vercel você tenha problemas ao realizar as requisições para o servidor. Para contornar este problema é preciso habilitar `Insecure Content` nas configurações do site:apenas
+Como a api não possui certificado ssl é possível que ao abrir a aplicação no vercel você tenha problemas ao realizar as requisições para o servidor. Para contornar este problema é preciso habilitar `Insecure Content` nas configurações do site:
 1. Clique nas configurações do site: <br>
    ![image](https://github.com/Gabukuro/insta-gift/assets/48013350/d10afba5-6f03-47de-989e-2d79bff0a78e)
 
