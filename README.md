@@ -35,4 +35,12 @@ A seguir a lista de diagramas da aplicação:
 - [Link do Sonar (Produção)](http://3.140.235.13:9000/)
 - [Link do Betterstack](https://uptime.betterstack.com/team/179873/monitors/1588685)
 
-### Como usar a aplicação
+### Observações
+Como a api não possui certificado ssl é possível que ao abrir a aplicação no vercel você tenha problemas ao realizar as requisições para o servdor. Para contornar este problema é preciso habilitar `Insecure Content` nas configurações do site:
+1. Clique nas configurações do site: <br>
+   ![image](https://github.com/Gabukuro/insta-gift/assets/48013350/d10afba5-6f03-47de-989e-2d79bff0a78e)
+
+3. Em seguida vai aparecer uma lista com vária pesmissões, encontre a opção `Insecure Content` e selecione permitir:<br>
+   ![image](https://github.com/Gabukuro/insta-gift/assets/48013350/b5b3c8ea-d854-4389-bca7-cd2b69114a20)
+
+Feito isso, agora a aplicação pode acessar a api.
