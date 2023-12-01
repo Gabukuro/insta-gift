@@ -28,7 +28,7 @@ A seguir a lista de diagramas da aplicação:
 
 ### Repositórios Relacionados
 - [API da Aplicação](https://github.com/Gabukuro/insta-gift-api)  - [Link do API (Produção)](http://3.128.213.201:8000/status)
-- [Frontend em Vue.js da Aplicação](https://github.com/Gabukuro/insta-gift-app) - [Link do Vercel (Produção)](https://insta-gift-i5k61f8mb-gabukuro.vercel.app/)
+- [Frontend em Vue.js da Aplicação](https://github.com/Gabukuro/insta-gift-app) - [Link do Vercel (Produção)](https://insta-gift-app.vercel.app/)
 - [Localstack para Desenvolvimento Local](https://github.com/Gabukuro/insta-gift-localstack)
 - [Object Detection Service](https://github.com/Gabukuro/object-detection-service)
 
